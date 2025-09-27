@@ -1,5 +1,13 @@
 # 🎓 Student Portal with Role Management
 
+# team - kathiyawadi kings
+
+Zeel Barvaliya - 23cs004
+dhruv lokadiya
+mittal domadiya
+meet borkhatariya
+
+
 A comprehensive, secure, and feature-rich student portal system built with PHP, MySQL, and modern web technologies. This system provides role-based access control for students and administrators with extensive functionality for managing student data and profiles.
 
 ## 🌟 Features
